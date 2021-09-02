@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Article list 已发表论文总结</title>
-    <url>/xinyang221.gitee.io/2021/09/01/Article%20list/</url>
+    <url>/blog/2021/09/01/Article%20list/</url>
     <content><![CDATA[<h1 id="第一作者论文汇总"><a href="#第一作者论文汇总" class="headerlink" title="第一作者论文汇总"></a>第一作者论文汇总</h1><ol>
 <li><p><strong>李欣洋</strong>, 张遵真. <a href="http://www.cqvip.com/QK/95178A/201705/674322122.html">大气细颗粒物可通过长链非编码RNA途径促进肺癌细胞的迁移侵袭</a>[J]. 环境卫生学杂志, 2017(05): 390.</p>
 </li>
@@ -70,7 +70,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/xinyang221.gitee.io/2021/08/27/hello-world/</url>
+    <url>/blog/2021/08/27/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
