@@ -14,25 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>腊肠饭</title>
-    <url>/cuisine/2021/09/02/%E8%85%8A%E8%82%A0%E9%A5%AD/</url>
-    <content><![CDATA[<h1 id="备料"><a href="#备料" class="headerlink" title="备料"></a>备料</h1><p>腊肠 腊肠质量 5倍以内的米</p>
-<h1 id="做法"><a href="#做法" class="headerlink" title="做法"></a>做法</h1><p>腊肠洗净，米淘洗干净，放入锅中 ，加入正常量水的70%（根据蒸饭炊具和 方法不同 ），蒸饭即可  。</p>
-<h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><p>可适量 加入糯米 或 黑米，有肉粽 口感，但是 会增黏性，之后不易炒米饭 。</p>
-<p>搭配潮汕橄榄菜更好吃。</p>
-<h1 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h1><p>无</p>
-]]></content>
-      <categories>
-        <category>主食</category>
-      </categories>
-      <tags>
-        <tag>主食</tag>
-        <tag>米饭</tag>
-        <tag>肉</tag>
-        <tag>咸</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>烧茄子</title>
     <url>/cuisine/2021/09/02/%E7%83%A7%E8%8C%84%E5%AD%90/</url>
     <content><![CDATA[<h1 id="备料"><a href="#备料" class="headerlink" title="备料"></a>备料</h1><p>圆茄子或长条茄子，大蒜</p>
@@ -52,9 +33,28 @@
         <category>热菜</category>
       </categories>
       <tags>
-        <tag>咸</tag>
         <tag>热菜</tag>
         <tag>素菜</tag>
+        <tag>咸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>腊肠饭</title>
+    <url>/cuisine/2021/09/02/%E8%85%8A%E8%82%A0%E9%A5%AD/</url>
+    <content><![CDATA[<h1 id="备料"><a href="#备料" class="headerlink" title="备料"></a>备料</h1><p>腊肠 腊肠质量 5倍以内的米</p>
+<h1 id="做法"><a href="#做法" class="headerlink" title="做法"></a>做法</h1><p>腊肠洗净，米淘洗干净，放入锅中 ，加入正常量水的70%（根据蒸饭炊具和 方法不同 ），蒸饭即可  。</p>
+<h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><p>可适量 加入糯米 或 黑米，有肉粽 口感，但是 会增黏性，之后不易炒米饭 。</p>
+<p>搭配潮汕橄榄菜更好吃。</p>
+<h1 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h1><p>无</p>
+]]></content>
+      <categories>
+        <category>主食</category>
+      </categories>
+      <tags>
+        <tag>咸</tag>
+        <tag>主食</tag>
+        <tag>米饭</tag>
+        <tag>肉</tag>
       </tags>
   </entry>
   <entry>
@@ -82,10 +82,10 @@
         <category>热菜</category>
       </categories>
       <tags>
-        <tag>肉</tag>
-        <tag>咸</tag>
         <tag>热菜</tag>
         <tag>素菜</tag>
+        <tag>咸</tag>
+        <tag>肉</tag>
       </tags>
   </entry>
   <entry>
